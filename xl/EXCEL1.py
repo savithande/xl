@@ -41,8 +41,8 @@ worksheet.write('B5','8RA15CS085')
 #  place names storing
 worksheet.write('C2', '\n')
 worksheet.write('C3','HASSAN')
-worksheet.write('C4','MYSUR')
-worksheet.write('C5','BANGLURE')
+worksheet.write('C4','MYSORE')
+worksheet.write('C5','BANGALORE')
 
 # storing of the phno
 worksheet.write('D2','\n')
