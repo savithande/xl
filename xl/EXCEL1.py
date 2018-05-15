@@ -42,7 +42,7 @@ worksheet.write('B5','8RA15CS085')
 worksheet.write('C2', '\n')
 worksheet.write('C3','HASSAN')
 worksheet.write('C4','MYSORE')
-worksheet.write('C5','BANGALORE')
+worksheet.write('C5','BANGLORE')
 
 # storing of the phno
 worksheet.write('D2','\n')
